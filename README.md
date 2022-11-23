@@ -5,11 +5,11 @@ Simple application create in HTML, CSS and JavaScript. Shows current time and da
 
 ##
 
-![giphy](https://user-images.githubusercontent.com/62899618/203309668-47b1ec9c-75fb-4f33-b77e-1cce19deb6f9.mp4)
+https://user-images.githubusercontent.com/62899618/203535209-5a74823e-ea05-4124-80ee-5d64de92bb65.mp4
 
 ## Sneak peek of a JS code which I used
 
 ![js-code-of-digital-clock](https://user-images.githubusercontent.com/62899618/203312873-da323a8b-34ae-4ac8-9e81-df26e6695f6d.png)
 
 ### Demo
-If U want to chceck it click on the :arrow_right: ![link](https://codepen.io/Impalma/pen/MWXQbJY)
+If U want to chceck it click on the link :arrow_right: https://codepen.io/Impalma/pen/MWXQbJY
